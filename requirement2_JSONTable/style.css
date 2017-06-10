@@ -1,0 +1,17 @@
+
+
+
+div{
+	margin: auto;
+	width: 80%;
+	padding-top: 100px;
+}
+
+th{
+	text-transform: uppercase;
+}
+
+tr:hover{
+	background: #dfd7ed;
+	cursor: pointer;
+}
